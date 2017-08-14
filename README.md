@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+   Hi.  My name is Justin Slack.  I like JavaScript, Java, HTML, CSS, Python, and PHP.
